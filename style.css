@@ -1,0 +1,32 @@
+*{
+    text-align: center;
+    font-size:10vb ;
+}
+body{
+    background-color: rgb(9, 9, 9);
+
+}
+h1,p{
+    color: white;
+}
+#buttonText{
+ color: rgb(255, 255, 255);
+ background-color: blueviolet;
+ border-radius: 10px ;
+ 
+}
+#buttonText:hover{
+    background-color: rgba(137, 43, 226, 0.589);
+    color: white;
+    font-size: 12vb;
+    transition: 2s;
+}
+#inputText{
+    border-radius: 10px;
+}
+p{
+    background-color: rgba(137, 43, 226, 0.589);
+    border-radius: 20px;
+    margin-right: 25vb;
+    margin-left: 25vb;
+}
